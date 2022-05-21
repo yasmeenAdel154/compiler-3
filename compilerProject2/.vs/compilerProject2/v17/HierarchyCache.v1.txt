@@ -1,0 +1,250 @@
+﻿++Solution 'compilerProject2' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:compilerProject2.sln
+++compilerProject2
+i:{00000000-0000-0000-0000-000000000000}:compilerProject2
+++Connected Services 
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:>199
+++Dependencies
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:>198
+++Properties
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\properties\
+++wwwroot
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\
+++Controllers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\controllers\
+++HomeController.cs
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\controllers\homecontroller.cs
+++ScannerController.cs
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\controllers\scannercontroller.cs
+++Models
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\models\
+++CharsId.cs
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\models\charsid.cs
+++compilerProjectContext.cs
+++DataContext.cs
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\models\datacontext.cs
+++ErrorViewModel.cs
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\models\errorviewmodel.cs
+++KeyWord.cs
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\models\keyword.cs
+++SymbolsHasSameId.cs
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\models\symbolshassameid.cs
+++Views
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\
+++Home
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\home\
+++Scanner
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\scanner\
+++readKeyWordsFromDB.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\scanner\readkeywordsfromdb.cshtml
+++Shared
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\shared\
+++_ViewImports.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\_viewstart.cshtml
+++appsettings.json
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\appsettings.json
+++Program.cs
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\program.cs
+++No service dependencies discovered
+++Analyzers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:analyzers
+++Frameworks
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:frameworks
+++Packages
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:packages
+++launchSettings.json
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\properties\launchsettings.json
+++css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\css\
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\js\
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\
+++favicon.ico
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\favicon.ico
+++Index.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\home\index.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\scanner\index.cshtml
+++Privacy.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\shared\error.cshtml
+++appsettings.Development.json
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\users\yasme\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:>276
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:>278
+++site.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\css\site.css
+++site.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\js\site.js
+++bootstrap
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\
+++jquery
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery\
+++jquery-validation
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\shared\_layout.cshtml.css
+++dist
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery\dist\
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery\license.txt
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++SQL Server Database
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:>464
+++SQL Server Database dependency is detected
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:>465
+++readTokens.cshtml
+i:{3cfffaf9-c2dc-4ce4-b78f-88e0f24723a0}:e:\computers\level 3\semester 2\compiler\cs 419 compiler projects spring 2021-2022\compilerproject2\views\scanner\readtokens.cshtml

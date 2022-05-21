@@ -1,0 +1,8 @@
+﻿@model Dictionary<string, string>
+@{
+    <h1> @Model.Count()</h1>
+    foreach (var k in Model)
+    {
+        <h1>@k.Key @k.Value</h1>
+    }
+}
